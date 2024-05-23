@@ -34,14 +34,18 @@ A) Behavior Prediction: Models can be simulated to predict the behavior of the s
    B)Tool Integration: Simulation tools like MATLAB/Simulink allow for easy integration with hardware and software components, facilitating comprehensive testing and validation.  
 
 3. Design Iteration:
+   
    A)Rapid Prototyping: MBD enables rapid prototyping and iterative design, allowing engineers to quickly test and refine their ideas.
+   
    B)Feedback Loop: The simulation results provide feedback that can be used to improve the model and design, leading to a more refined and optimized system.
 
 5. Automatic Code Generation:
+   
    A) From Model to Code: Once the model is validated, automatic code generation tools can convert the model into deployable code for embedded systems. This reduces the risk of human error and speeds up the development process.
 
 5.Verification and Validation:
   A)Early Testing: Models can be tested early in the development process, enabling early detection and correction of errors.
+  
   B)Formal Methods: Advanced verification techniques, such as formal methods, can be applied to the models to ensure correctness and compliance with specifications.
 
 
