@@ -23,9 +23,10 @@ A methodology that uses models as the primary means of designing, implementing, 
 
 Key Concepts of Model-Based Development
 
-1.System Modeling:
+1. System Modeling:
 
-   A) Abstract Representation: Models represent the system or component using mathematical equations, logical rules, or graphical elements. These models abstract the real-world behavior of the system.
+   A) Abstract Representation: Models represent the system or component using mathematical equations, logical rules, or graphical elements. These models abstract the real-world behavior of the system.  
+   
    B)Types of Models: Models can be continuous, discrete, or hybrid. They may represent physical systems, control logic, software architecture, or a combination of these.
 
 2. Simulation:
@@ -39,11 +40,12 @@ A) Behavior Prediction: Models can be simulated to predict the behavior of the s
    
    B)Feedback Loop: The simulation results provide feedback that can be used to improve the model and design, leading to a more refined and optimized system.
 
-5. Automatic Code Generation:
+4. Automatic Code Generation:
    
    A) From Model to Code: Once the model is validated, automatic code generation tools can convert the model into deployable code for embedded systems. This reduces the risk of human error and speeds up the development process.
 
 5.Verification and Validation:
+
   A)Early Testing: Models can be tested early in the development process, enabling early detection and correction of errors.
   
   B)Formal Methods: Advanced verification techniques, such as formal methods, can be applied to the models to ensure correctness and compliance with specifications.
@@ -57,9 +59,11 @@ By using models to validate and verify the system at every stage, MBD helps in p
 MBD streamlines the development process through automation and reuse of models, leading to faster development cycles and reduced time-to-market.
 
 3.Better Communication:
+
 Models provide a clear and unambiguous representation of the system, improving communication among team members and stakeholders.
 
 4.Cost Reduction:
+
 Early detection of issues and reduced need for physical prototypes can significantly cut development costs.
 
 5.Flexibility and Scalability:
