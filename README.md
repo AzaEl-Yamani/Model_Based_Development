@@ -46,9 +46,9 @@ Key Concepts of Model-Based Development
 
   5.Verification and Validation:
 
-     A)Early Testing: Models can be tested early in the development process, enabling early detection and correction of errors.
+    A)Early Testing: Models can be tested early in the development process, enabling early detection and correction of errors.
   
-     B)Formal Methods: Advanced verification techniques, such as formal methods, can be applied to the models to ensure correctness and compliance with specifications.
+    B)Formal Methods: Advanced verification techniques, such as formal methods, can be applied to the models to ensure correctness and compliance with specifications.
 
 
 ## Benefits of Model-Based Development
