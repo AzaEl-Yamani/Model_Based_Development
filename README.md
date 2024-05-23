@@ -44,7 +44,7 @@ Key Concepts of Model-Based Development
    
    A) From Model to Code: Once the model is validated, automatic code generation tools can convert the model into deployable code for embedded systems. This reduces the risk of human error and speeds up the development process.
 
-5.Verification and Validation:
+ 5.Verification and Validation:
 
   A)Early Testing: Models can be tested early in the development process, enabling early detection and correction of errors.
   
