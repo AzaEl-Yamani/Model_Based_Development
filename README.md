@@ -22,6 +22,7 @@ This repository is dedicated to my studies and projects related to Model-Based D
 A methodology that uses models as the primary means of designing, implementing, and testing systems. This approach is widely used in complex engineering projects, such as automotive, aerospace, and control systems, because it provides a comprehensive framework for developing reliable and efficient products.
 
 Key Concepts of Model-Based Development
+
 1.System Modeling:
 
    A) Abstract Representation: Models represent the system or component using mathematical equations, logical rules, or graphical elements. These models abstract the real-world behavior of the system.
