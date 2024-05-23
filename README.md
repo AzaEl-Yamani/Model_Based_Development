@@ -31,7 +31,7 @@ Key Concepts of Model-Based Development
 
 2. Simulation:
 
-A) Behavior Prediction: Models can be simulated to predict the behavior of the system under various conditions. This helps in understanding system dynamics and identifying potential issues early in the development cycle.
+   A) Behavior Prediction: Models can be simulated to predict the behavior of the system under various conditions. This helps in understanding system dynamics and identifying potential issues early in the development cycle.
    B)Tool Integration: Simulation tools like MATLAB/Simulink allow for easy integration with hardware and software components, facilitating comprehensive testing and validation.  
 
 3. Design Iteration:
@@ -53,9 +53,11 @@ A) Behavior Prediction: Models can be simulated to predict the behavior of the s
 
 ## Benefits of Model-Based Development
 1. Improved Quality:
+   
 By using models to validate and verify the system at every stage, MBD helps in producing higher quality, more reliable systems.
 
 2. Enhanced Productivity:
+   
 MBD streamlines the development process through automation and reuse of models, leading to faster development cycles and reduced time-to-market.
 
 3.Better Communication:
@@ -67,6 +69,7 @@ Models provide a clear and unambiguous representation of the system, improving c
 Early detection of issues and reduced need for physical prototypes can significantly cut development costs.
 
 5.Flexibility and Scalability:
+
 MBD supports the development of complex systems by allowing easy modification and scaling of models.
  
 ## [MATLAB](MATLAB)
